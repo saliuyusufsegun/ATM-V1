@@ -12,4 +12,4 @@ Features:
  
     ## How to Run
     ```bash
-    python atm_v1.py
+    python atm.py
