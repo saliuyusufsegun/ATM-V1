@@ -8,3 +8,8 @@ Features:
 - Check balance
 - Deposit
 - Withdraw
+
+ 
+    ## How to Run
+    ```bash
+    python atm_v1.py
