@@ -1,6 +1,6 @@
 import sys
 
-balance="$1000"
+balance=1000
 pin=1234
 attempts=0
 
@@ -22,7 +22,7 @@ while True:
     print("4. Exit")
     option=int(input("Enter option: "))
     if option==1:
-        print(f"Your balance is {balance}")
+        print(f"Your balance is ${balance}")
     elif option==2:
         amount=int(input("Enter deposit amount: "))
         balance+=amount
